@@ -1,0 +1,26 @@
+color-link default "#ecf2f8,#0d1117" #
+color-link comment "#5C6370,#0d1117" #
+color-link identifier "#faa356,#0d1117" #
+color-link constant "#cea5fb,#0d1117" #
+color-link constant.string "#7ce38b,#0d1117"  #
+color-link statement "#faa356,#0d1117" #
+color-link type "#faa356,#0d1117" #
+color-link underlined "#cea5fb,#0d1117" 
+color-link error "bold #fa7970,#0d1117" #
+color-link todo "bold #faa356,#0d1117" 
+color-link line-number "#5C6370,#0d1117" #
+color-link current-line-number "#ecf2f8,#0d1117"
+color-link diff-added "#7ce38b" #
+color-link diff-modified "#77bdfb" #
+color-link diff-deleted "#fa7970" #
+#No extended types; Plain brackets.
+color-link type.extended "default"
+color-link symbol "ecf2f8,#0d1117" 
+color-link symbol.brackets "#default"
+color-link symbol.operator "#fa7970"
+color-link symbol.tag "#fa7970" #
+color-link brightgreen "#7ce38b"
+color-link type.keyword "#faa356"
+color-link special "#faa356"
+color-link statement "#faa356"
+color-link preproc "#cea5fb"
